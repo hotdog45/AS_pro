@@ -1,2 +1,3 @@
+include ':hi-library'
 include ':app'
 rootProject.name = "aspro"
