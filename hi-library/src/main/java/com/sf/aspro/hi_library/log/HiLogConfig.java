@@ -3,7 +3,7 @@ package com.sf.aspro.hi_library.log;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-public class HiConfig {
+public class HiLogConfig {
     static int MAX_LEN = 512;
 //    static
 
